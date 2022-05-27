@@ -1,2 +1,2 @@
 My first readme
-not empty README.md
+the only time it is allowed to update and commit from GitHub interface.
